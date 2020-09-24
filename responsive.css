@@ -1,0 +1,27 @@
+@media all and (max-width: 1000px) {
+ .contnts-item {
+   width:50%;
+   margin-bottom:50px;
+ }
+ .contact-form {
+   text-align: center;
+ }
+}
+@media all and (max-width: 480px) {
+ .vision {
+   text-align: left;
+ }
+ .vision h1 {
+   font-size:24px;
+ }
+ .vision h2 {
+   font-size:14px;
+ }
+ .contents-item {
+   width:100%;
+ }
+ .message-wrapper {
+   clear:center;
+ }
+
+}
